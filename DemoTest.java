@@ -11,6 +11,6 @@ public class DemoTest{
 
     @Test
     public void test(){
-        assertEquals(20, test1.average());
+        assertEquals(30, test1.average());
     }
 }
